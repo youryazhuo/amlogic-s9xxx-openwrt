@@ -527,4 +527,5 @@ CONFIG_PACKAGE_luci-i18n-wol-zh-cn=y
 #
 # 4. Other Configuration
 CONFIG_BUSYBOX_DEFAULT_FALLOCATE=y
+CONFIG_IP_MROUTE=y
 # end of 4. Other Configuration
